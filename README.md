@@ -3,7 +3,7 @@
 - 🔭 Atualmente estou trabalhando como Desenvolvedor Full Stack
 - 🌱 Estudando C# e React.js
 
-<p align="center">Sou um <strong>Desenvolvedor FullStack.</strong> Possuo quase <strong>2 anos de experiência no mercado de tecnologia</strong>, atualmente atuando como PJ na empresa Íkone Automação e Sistemas, desenvolvendo diversos recursos às API's dos clientes da empresa (<strong>Back-End</strong>), e criando sites para os mesmos (<strong>Front-End</strong>). Possuo diploma <strong>técnico em Desenvolvimento de Sistemas</strong> pela ETEC Profº Horácio Augusto da Silveira, e atualmente cursando Ciências da Computação pela Universidade Cruzeiro do Sul para aprofundar meus conhecimentos.</p>&nbsp;
+<p align="center">Sou um <strong>Desenvolvedor FullStack.</strong> Possuo <strong>+2 anos de experiência no mercado de tecnologia</strong>, atualmente atuando como PJ na empresa Íkone Automação e Sistemas, desenvolvendo diversos recursos às API's dos clientes da empresa (<strong>Back-End</strong>), e criando sites para os mesmos (<strong>Front-End</strong>). Possuo diploma <strong>técnico em Desenvolvimento de Sistemas</strong> pela ETEC Profº Horácio Augusto da Silveira, e atualmente cursando Ciências da Computação pela Universidade Cruzeiro do Sul para aprofundar meus conhecimentos.</p>&nbsp;
 
 
 <div  align="center" style="margin-bottom:100px">
